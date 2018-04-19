@@ -14,3 +14,5 @@ Just host the "ping.php" file on a server that is running PHP and point your app
 Suitable to host on a FileMaker Server that has PHP enabled, to be able to point to and debug 
 "Insert from URL" script steps using cURL options.
 
+Read more here:
+https://www.soliantconsulting.com/blog/filemaker-rest
